@@ -4,16 +4,14 @@ Simple script to auto-create Discord servers using a user token. Generates rando
 
 ## Setup
 Install deps:
-```bash
 pip install requests faker
 
 Create config.json:
 {
   "token": "YOUR_DISCORD_TOKEN_HERE"
 }
-```
+
 Run:
-```bash
 python main.py
 
 
