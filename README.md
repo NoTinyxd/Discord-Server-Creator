@@ -8,7 +8,6 @@ Install deps:
 pip install requests faker
 
 Create config.json:
-```json
 {
   "token": "YOUR_DISCORD_TOKEN_HERE"
 }
@@ -31,4 +30,3 @@ python main.py
 ## Note
 I am not responsible for any misuse, use under your own risk
 Selling this is not allowed
-```
