@@ -1,4 +1,4 @@
-```markdown
+
 # Discord Server Creator
 Simple script to auto-create Discord servers using a user token. Generates random server names with Faker.
 
@@ -6,7 +6,7 @@ Simple script to auto-create Discord servers using a user token. Generates rando
 Install deps:
 ```bash
 pip install requests faker
-```
+
 Create config.json:
 ```json
 {
@@ -16,7 +16,7 @@ Create config.json:
 Run:
 ```bash
 python main.py
-```
+
 
 ## Features
 - Auto-generates server names (Color + Word format)
