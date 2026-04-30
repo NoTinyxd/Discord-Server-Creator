@@ -4,6 +4,7 @@
 from faker import Faker
 fake = Faker()
 import json
+import requests
 
 with open('config.json','r') as c:
     config = json.load(c)
