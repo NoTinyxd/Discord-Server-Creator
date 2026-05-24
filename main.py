@@ -1,6 +1,6 @@
 # github.com/NoTinyxd 
-# not more features i may add proxy and other if i want to add
-# i am not responsible for any illegal usage of this repoimport requests
+# not much features, i may add proxy and other if i want to add
+# i am not responsible for any illegal usage of this repo
 from faker import Faker
 fake = Faker()
 import json
